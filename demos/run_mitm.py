@@ -1,5 +1,3 @@
-
-
 from core.diffie_hellman import (generate_private_key,
                                 generate_public_key,
                                 compute_shared_secret)
